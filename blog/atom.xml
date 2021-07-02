@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rebuildmx.github.io/blog</id>
+    <title>REBUILD MX Documentation Blog</title>
+    <updated>2015-10-25T23:29:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://rebuildmx.github.io/blog"/>
+    <subtitle>REBUILD MX Documentation Blog</subtitle>
+    <icon>https://rebuildmx.github.io/img/MP-logo-black.ico</icon>
+</feed>
